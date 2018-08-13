@@ -38,8 +38,8 @@ const tileGrid = new WMTSTileGrid({
 });
 
 // API key valid for 'openlayers.org' and 'localhost'.
-// Expiration date is 06/29/2018.
-const key = '2mqbg0z6cx7ube8gsou10nrt';
+// Expiration date is 14/08/2019.
+const key = 'wo2u5l3li5s10m8sf3lcdddk';
 
 const ign_source = new WMTS({
   url: 'https://wxs.ign.fr/' + key + '/wmts',
